@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Old Time Raleigh Map",
+    "price": "0.09",
+    "description": "Get this old copy of a map of Raleigh NC",
+    "image_url": "/oldtownraleigh.jpg",
+    "hash": "QmPNUMmgRQx5JuEmMhXz7389xkNTaP4tSxFobYX5eUT8F4"
+  },
+  {
+    "id": 2,
+    "name": "Presidential Range Topo",
+    "price": "0.19",
+    "description": "Get this a super topo of the the Presidential Range",
+    "image_url": "/topo1.jpg",
+    "hash": "QmeD594LrpHVCiAvaPhHvbvgek8ErhMWo1QNfmzG79xcyq"
+  },
+  {
+    "id": 3,
+    "name": "High Mountain Lake Topo",
+    "price": "0.09",
+    "description": "High Mountain Lake",
+    "image_url": "/topo2.jpg",
+    "hash": "QmWf1DaYNHCbxcwyXgXzxg3zwCb7uK55WvhzRKHLDW5A1M"
+  },
+  {
+    "id": 4,
+    "name": "Panthertown Topo",
+    "price": ".05",
+    "image_url": "/panthertown.jpg",
+    "description": "panthertown topo map",
+    "filename": "panthertown.jpg",
+    "hash": "QmTMEtuTo1zT8eiicCJ5sfNeEvN9sKifShEG3eWUwtsqGM"
+  },
+  {
+    "id": 5,
+    "name": "Linville Gorge Topo Map",
+    "price": "0.55",
+    "image_url": "/linville.jpg",
+    "description": "Linville Gorge Topo Mapo",
+    "filename": "linville.jpg",
+    "hash": "QmSiMvERyNWx951FJESw5bwPJDmZ8EnBBFVzKWRyAbQbYJ"
+  }
+]
